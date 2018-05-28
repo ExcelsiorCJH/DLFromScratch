@@ -8,6 +8,8 @@
 
 ## 2. 목차
 
+- 1장 - *생략*
+- [2장 - 퍼셉트론](https://github.com/ExcelsiorCJH/DLFromScratch/blob/master/Chap02-Perceptron/Chap02-Perceptron.ipynb)
 
 ## 3. 참고자료
 
